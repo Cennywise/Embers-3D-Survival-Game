@@ -1,7 +1,5 @@
 ![Embers](Untitled%20Forest%20Game/Assets/UI/Embers%20(1).png)
 
-# Embers #
-
 ## Summary ##
 
 A great wicked spirit has descended upon the mystical forest and seeks to engulf it.  She is only held back by the mystical flame at the forest’s heart.  She sends hordes of minions to destroy it, but your friend, Mystic Hare, guards it using the magic of the flame.  As long as the strength of the flame endures, the forest and its inhabitants will be protected.
